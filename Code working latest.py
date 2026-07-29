@@ -23,8 +23,8 @@ class Config:
     
     # Camera Settings
     CAMERA_INDEX = 0
-    FRAME_WIDTH = 640
-    FRAME_HEIGHT = 480
+    FRAME_WIDTH = 840
+    FRAME_HEIGHT = 680
     
     # Gaze Detection Thresholds (WILL BE CALIBRATED)
     # Starting values - these will be adjusted
